@@ -71,14 +71,7 @@ while True:
 
             print('%s (score = %.5f)' % (human_string, score))
             
-            if  human_string==("daniel") and score > 0.99:
-
-                print ("hola, daniel como estas?")
-                os.system("google_speech -l es 'hola daniel, como estas?' -e speed 1 pitch -600")
-                os.system("python ./cancionfav.py") 
-            if  human_string==("orcas") and score > 0.70:
-
-                os.system("python ./bot.py Orcas-en-Zona-Doradillo")                
+                          
 
 
 
