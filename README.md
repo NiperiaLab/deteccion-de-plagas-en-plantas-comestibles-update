@@ -137,6 +137,10 @@ You should first see the prediction that corresponds to the type of pest you are
 ```
 labelimage.py 
 ```
+### Or this:
+```
+python label_image.py --image img1.JPG
+```
 ### if you want to do the detection with photos, you can do it in the following way:
 ```
 python labelimage.py "path of the image you want to try"
