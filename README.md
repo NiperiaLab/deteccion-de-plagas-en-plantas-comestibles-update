@@ -92,9 +92,6 @@ https://www.tensorflow.org/install/install_linux
 
 https://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/
 
-### Once you have installed tensorflow and opencv, download my already trained model:
-
-https://drive.google.com/drive/folders/1sowAcyeYXFCnhekE-WSOxUt5PASTijLq
 
 ### Now you must open and edit the file: 
 ```
